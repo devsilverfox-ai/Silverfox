@@ -1,2 +1,2 @@
-# Silverfox.ai
-Ai by Newbie
+# Silverfox
+my webpage in devlopment
